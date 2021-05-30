@@ -19,8 +19,8 @@ const App: () => Node = () => (
         fill={'black'}
         fontSize={28}
         fontFamily={'SFProRounded-Regular'}
-        x="50"
-        y="50%"
+        x="20"
+        y="200"
         textAnchor="start"
         fontFeatureSettings={'case 1'}
       >
