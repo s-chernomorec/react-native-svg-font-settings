@@ -17,7 +17,7 @@ const App: () => Node = () => (
     <Svg width={'100%'} height={'100%'}>
       <Text
         fill={'black'}
-        fontSize={28}
+        fontSize={24}
         fontFamily={'SFProRounded-Regular'}
         x="20"
         y="200"
